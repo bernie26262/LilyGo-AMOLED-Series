@@ -28,7 +28,24 @@ void lv_example_tabview_1(void)
                              "\n"
                              "\n"
                              "\n"
+                             "Can you see it?\n"
+                             "\n"
+                             "\n"
+                             "\n"
+                             "Can you see it?\n"
+                             "\n"
+                             "\n"
+                             "\n"
+                             "Can you see it?\n"
+                             "\n"
+                             "\n"
+                             "\n"
+                             "Can you see it?\n"
+                             "\n"
+                             "\n"
+                             "\n"
                              "Can you see it?");
+                             
 
     label = lv_label_create(tab2);
     lv_label_set_text(label, "Second tab");
